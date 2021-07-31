@@ -41,3 +41,9 @@ p {
   font-size: 20px;
   padding: 10px;
 }
+
+.aboutme {
+  background-color: #767676;
+  text-align: center;
+  padding: 40px 0 160px;
+}
