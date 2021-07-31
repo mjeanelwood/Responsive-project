@@ -2,3 +2,21 @@
   background-color: black;
   text-align: center;
 }
+
+:root {
+  --primary-color: #d169a5;
+  --secondary-color: #767676;
+  --primary-font-family: "Noto Serif", serif;
+  --secondary-font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: var(--primary-color);
+  font-family: var(--primary-font-family);
+}
+
+h2,
+p {
+  color: white;
+  font-family: var(--secondary-font-family);
+}
