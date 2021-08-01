@@ -46,6 +46,7 @@ p {
   background-color: #767676;
   margin: 30px;
   text-align: center;
+  padding-bottom: 75px;
 }
 .about-me h1 {
   font-family: var(--secondary-font-family);
