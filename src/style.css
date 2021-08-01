@@ -66,3 +66,9 @@ p {
   display: flex;
   justify-content: space-evenly;
 }
+.work-section {
+  background-color: #767676;
+  margin: 30px;
+  text-align: center;
+  padding-bottom: 75px;
+}
