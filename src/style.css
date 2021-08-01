@@ -42,8 +42,15 @@ p {
   padding: 10px;
 }
 
-.aboutme {
+.about-me {
   background-color: #767676;
   text-align: center;
-  padding: 40px 0 160px;
+}
+.about-me h1 {
+  font-size: 60px;
+}
+
+.page-links {
+  display: flex;
+  justify-content: space-evenly;
 }
