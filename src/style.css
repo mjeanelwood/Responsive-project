@@ -44,10 +44,21 @@ p {
 
 .about-me {
   background-color: #767676;
+  margin: 30px;
   text-align: center;
 }
 .about-me h1 {
-  font-size: 60px;
+  font-family: var(--secondary-font-family);
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  color: white;
+  font-size: 55px;
+}
+.about-me h2 {
+  font-size: 25px;
+}
+.about-me p {
+  font-size: 20px;
 }
 
 .page-links {
