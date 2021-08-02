@@ -67,3 +67,10 @@ p {
   display: flex;
   justify-content: space-evenly;
 }
+.contact-links {
+  text-decoration: none;
+  color: black;
+}
+.contact-section h3 {
+  color: white;
+}
