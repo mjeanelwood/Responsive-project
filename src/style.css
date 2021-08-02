@@ -42,33 +42,29 @@ p {
   padding: 10px;
 }
 
-.about-me {
+.section {
   background-color: #767676;
-  margin: 30px;
+
   text-align: center;
-  padding-bottom: 75px;
+  padding: 75px;
 }
-.about-me h1 {
-  font-family: var(--secondary-font-family);
+.section h1 {
+  font-family: var(--primary-font-family);
   background-color: var(--primary-color);
   border-radius: 5px;
   color: white;
   font-size: 55px;
+  padding: 20px;
+  margin-top: 15px;
 }
-.about-me h2 {
+.section h2 {
   font-size: 25px;
 }
-.about-me p {
+.section p {
   font-size: 20px;
 }
 
 .page-links {
   display: flex;
   justify-content: space-evenly;
-}
-.work-section {
-  background-color: #767676;
-  margin: 30px;
-  text-align: center;
-  padding-bottom: 75px;
 }
