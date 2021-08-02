@@ -45,7 +45,7 @@ p {
 .section {
   background-color: #767676;
   text-align: center;
-  padding: 75px;
+  padding: 25px;
 }
 .section h1 {
   font-family: var(--primary-font-family);
@@ -103,6 +103,13 @@ footer .social-links a {
   margin: 0 20px;
   color: white;
   background: var(--primary-color);
-  padding: 10px;
+  padding: 8px 12px;
+  border-radius: 50%;
   font-size: 18px;
+  transition: all 100ms ease-in-out;
+}
+
+footer .social-links a:hover {
+  color: var(--primary-color);
+  background: white;
 }
