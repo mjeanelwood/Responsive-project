@@ -165,3 +165,7 @@ footer .contact-box {
 footer .contact-box p {
   margin: 0;
 }
+footer p {
+  padding-top: 25px;
+  font-size: 15px;
+}
