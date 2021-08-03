@@ -167,5 +167,17 @@ footer .contact-box p {
 }
 footer p {
   padding-top: 25px;
+  font-size: 10px;
+}
+
+.source-links {
   font-size: 15px;
+}
+.source-links a {
+  color: white;
+  transition: all 100ms ease-in-out;
+}
+
+.source-links a:hover {
+  color: black;
 }
