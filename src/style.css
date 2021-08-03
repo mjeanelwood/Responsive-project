@@ -179,5 +179,5 @@ footer p {
 }
 
 .source-links a:hover {
-  color: black;
+  color: var(--primary-color);
 }
